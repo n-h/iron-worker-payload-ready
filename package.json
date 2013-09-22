@@ -1,0 +1,9 @@
+{
+	"name": "iron-worker-payload-ready",
+	"main": "index.js",
+	"description": "Simple Interface for getting your Iron.io Worker payload",
+	"repository": "git://github.com/n-h/iron-worker-payload-ready",
+	"version": "1.0.0",
+	"dependencies": {
+	}
+}
